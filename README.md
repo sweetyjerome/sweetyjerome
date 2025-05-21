@@ -1,11 +1,8 @@
 
 # 🚀 Growing, Building, Creating! 
 ## Hi there 👋
-## About Me  
-A passionate frontend developer with expertise in ReactJS, React Native, AngularJS, TypeScript, JavaScript, CSS, Next.js, and Python. I thrive on crafting seamless user interfaces and high-performance web and mobile applications.
 
-## My Motivation  
-Driven by curiosity and a desire to solve real-world problems through technology, I love transforming creative concepts into functional, user-centric solutions that make a positive impact.
+I'm a frontend developer who loves creating user-friendly web and mobile apps. I enjoy learning new technologies and building solutions that make a difference. My motivation comes from solving real-world problems and continuously growing my skills in ReactJS, React Native, AngularJS, TypeScript, JavaScript, CSS, Next.js, and Python.
 
 ## My Top Skills  
 - ReactJS & React Native  
