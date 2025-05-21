@@ -12,15 +12,11 @@ I'm a frontend developer who loves creating user-friendly web and mobile apps. I
 - CSS & Responsive Design  
 - Python
 
-## Highlighted Repositories  
-- **bwt**  
-- **barcodereader**
 
 ## Let’s Connect  
 Feel free to reach out or collaborate!  
-[LinkedIn: linkedin.com/sweetyjerome](https://linkedin.com/sweetyjerome)
-I am a frontend developer specializing in building robust web and mobile applications. 
-My top skills include ReactJS, React Native, AngularJS, TypeScript, JavaScript, CSS, Next.js, and Python. I have hands-on experience delivering high-quality user experiences with a keen eye for responsive design and performance optimization.
+[LinkedIn: linkedin.com/in/sweetyjerome](https://www.linkedin.com/in/sweetyjerome/)
+
 
 <!--
 **sweetyjerome/sweetyjerome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
